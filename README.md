@@ -32,9 +32,6 @@ A modern, responsive React application designed for educational program registra
 - 🖱️ **Hover Effects**:
   - Enhanced interactivity for key UI elements
 
----
-
-## 📁 Project Structure
 
 
 
